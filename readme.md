@@ -6,7 +6,7 @@ This Python program demonstrates the Breadth-First Search (BFS) and Depth-First 
 
 Given a 3x3 grid containing numbers from 1 to 8 and a blank space ('B'), the task is to move the blank space to reach a target grid configuration. In one step, the blank space can move top, down, left, or right. The target grid configuration is fixed.
 
-# Input
+### Input
 
 Start Grid:
 (
@@ -22,7 +22,7 @@ Target Grid:
     (7, 8, 'B')
 )
 
-# Output
+### Output
 
 time taken by BFS: 0.6037964820861816
 BFS will take 24 steps to reach the goal state.
