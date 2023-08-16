@@ -25,11 +25,17 @@ Target Grid:
 ### Output
 
 time taken by BFS: 0.6037964820861816
+
 BFS will take 24 steps to reach the goal state.
+
 time taken by DFS: 0.4650583267211914
+
 DFS will take 103154 steps to reach the goal state.
+
 BFS took more time to reach goal state than DFS
+
 DFS took more step count to reach goal state than BFS
+
 
 ## Code Overview
 
