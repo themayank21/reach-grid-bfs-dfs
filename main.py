@@ -18,7 +18,7 @@ if __name__ == "__main__":
     # inputGrid and goalGrid of 3x3 tuple matrix
     # matrix_size is the size of row matrix 
 
-    matrix_size = 2 # matrix of size 3x3
+    matrix_size = 3 # matrix of size 3x3
     inputGrid = generateRandomGrid(matrix_size)
     print(inputGrid)
     goalGrid = generateTargetGrid(matrix_size)
